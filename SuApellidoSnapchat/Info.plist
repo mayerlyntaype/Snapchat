@@ -2,6 +2,25 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>NSCameraUsageDescription</key>
+	<string>Necesito acceder a la camara</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Necesitamos permisos para acceder a tu microfono</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Necesitamos permisos para acceder a tu album de fotos</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.903456790093-snd7vm70318lmpjvpga37k9h4sflib7k</string>
+			</array>
+		</dict>
+	</array>
+	<key>GIDClientID</key>
+	<string>903456790093-snd7vm70318lmpjvpga37k9h4sflib7k.apps.googleusercontent.com</string>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>

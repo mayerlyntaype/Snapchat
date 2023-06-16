@@ -14,6 +14,15 @@
 		0719C7A82A27A044005C9729 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0719C7A72A27A044005C9729 /* Assets.xcassets */; };
 		0719C7AB2A27A044005C9729 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0719C7A92A27A044005C9729 /* LaunchScreen.storyboard */; };
 		0719C7B52A27A40A005C9729 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0719C7B42A27A40A005C9729 /* GoogleService-Info.plist */; };
+		0774255E2A2A4BB900C7B65A /* GoogleService-Info-2.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0774255D2A2A4BB900C7B65A /* GoogleService-Info-2.plist */; };
+		0776E2A42A33865A009A2317 /* registroViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0776E2A32A33865A009A2317 /* registroViewController.swift */; };
+		077B62B92A3B8FC8007B7A48 /* AudioViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 077B62B82A3B8FC8007B7A48 /* AudioViewController.swift */; };
+		07B707072A30E0D700049DC5 /* SnapsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B707062A30E0D700049DC5 /* SnapsViewController.swift */; };
+		07B707092A30E58200049DC5 /* ImagenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B707082A30E58200049DC5 /* ImagenViewController.swift */; };
+		07B7070B2A30F79C00049DC5 /* ElegirUsuarioViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B7070A2A30F79C00049DC5 /* ElegirUsuarioViewController.swift */; };
+		07B7070F2A30FD6600049DC5 /* Usuario.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B7070E2A30FD6600049DC5 /* Usuario.swift */; };
+		07D5D7D12A3A1B98008259D8 /* Snap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07D5D7D02A3A1B98008259D8 /* Snap.swift */; };
+		07D5D7D32A3A23DB008259D8 /* VerSnapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07D5D7D22A3A23DB008259D8 /* VerSnapViewController.swift */; };
 		0F2430EA0EBE4A09C2206E37 /* Pods_SuApellidoSnapchat.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4564292FB07A065161EF2C74 /* Pods_SuApellidoSnapchat.framework */; };
 /* End PBXBuildFile section */
 
@@ -27,6 +36,15 @@
 		0719C7AA2A27A044005C9729 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0719C7AC2A27A044005C9729 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0719C7B42A27A40A005C9729 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		0774255D2A2A4BB900C7B65A /* GoogleService-Info-2.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info-2.plist"; sourceTree = "<group>"; };
+		0776E2A32A33865A009A2317 /* registroViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = registroViewController.swift; sourceTree = "<group>"; };
+		077B62B82A3B8FC8007B7A48 /* AudioViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioViewController.swift; sourceTree = "<group>"; };
+		07B707062A30E0D700049DC5 /* SnapsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SnapsViewController.swift; sourceTree = "<group>"; };
+		07B707082A30E58200049DC5 /* ImagenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagenViewController.swift; sourceTree = "<group>"; };
+		07B7070A2A30F79C00049DC5 /* ElegirUsuarioViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ElegirUsuarioViewController.swift; sourceTree = "<group>"; };
+		07B7070E2A30FD6600049DC5 /* Usuario.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Usuario.swift; sourceTree = "<group>"; };
+		07D5D7D02A3A1B98008259D8 /* Snap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Snap.swift; sourceTree = "<group>"; };
+		07D5D7D22A3A23DB008259D8 /* VerSnapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VerSnapViewController.swift; sourceTree = "<group>"; };
 		4564292FB07A065161EF2C74 /* Pods_SuApellidoSnapchat.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SuApellidoSnapchat.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B8528BB49F7D533B6DE80E8A /* Pods-SuApellidoSnapchat.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SuApellidoSnapchat.release.xcconfig"; path = "Target Support Files/Pods-SuApellidoSnapchat/Pods-SuApellidoSnapchat.release.xcconfig"; sourceTree = "<group>"; };
 		F75982B8459AD23A69C0D640 /* Pods-SuApellidoSnapchat.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SuApellidoSnapchat.debug.xcconfig"; path = "Target Support Files/Pods-SuApellidoSnapchat/Pods-SuApellidoSnapchat.debug.xcconfig"; sourceTree = "<group>"; };
@@ -65,16 +83,41 @@
 		0719C79D2A27A042005C9729 /* SuApellidoSnapchat */ = {
 			isa = PBXGroup;
 			children = (
+				07B7070D2A30FD3A00049DC5 /* Modelos */,
+				07B7070C2A30FCE600049DC5 /* ViewControllers */,
 				0719C79E2A27A042005C9729 /* AppDelegate.swift */,
 				0719C7A02A27A042005C9729 /* SceneDelegate.swift */,
-				0719C7A22A27A042005C9729 /* niciarSesionViewController.swift */,
 				0719C7A42A27A042005C9729 /* Main.storyboard */,
 				0719C7A72A27A044005C9729 /* Assets.xcassets */,
 				0719C7A92A27A044005C9729 /* LaunchScreen.storyboard */,
 				0719C7AC2A27A044005C9729 /* Info.plist */,
 				0719C7B42A27A40A005C9729 /* GoogleService-Info.plist */,
+				0774255D2A2A4BB900C7B65A /* GoogleService-Info-2.plist */,
 			);
 			path = SuApellidoSnapchat;
+			sourceTree = "<group>";
+		};
+		07B7070C2A30FCE600049DC5 /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				07B707082A30E58200049DC5 /* ImagenViewController.swift */,
+				07B707062A30E0D700049DC5 /* SnapsViewController.swift */,
+				0719C7A22A27A042005C9729 /* niciarSesionViewController.swift */,
+				07B7070A2A30F79C00049DC5 /* ElegirUsuarioViewController.swift */,
+				0776E2A32A33865A009A2317 /* registroViewController.swift */,
+				07D5D7D22A3A23DB008259D8 /* VerSnapViewController.swift */,
+				077B62B82A3B8FC8007B7A48 /* AudioViewController.swift */,
+			);
+			path = ViewControllers;
+			sourceTree = "<group>";
+		};
+		07B7070D2A30FD3A00049DC5 /* Modelos */ = {
+			isa = PBXGroup;
+			children = (
+				07B7070E2A30FD6600049DC5 /* Usuario.swift */,
+				07D5D7D02A3A1B98008259D8 /* Snap.swift */,
+			);
+			path = Modelos;
 			sourceTree = "<group>";
 		};
 		4AEB9979B8B9A76268586B0F /* Frameworks */ = {
@@ -154,6 +197,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0774255E2A2A4BB900C7B65A /* GoogleService-Info-2.plist in Resources */,
 				0719C7AB2A27A044005C9729 /* LaunchScreen.storyboard in Resources */,
 				0719C7B52A27A40A005C9729 /* GoogleService-Info.plist in Resources */,
 				0719C7A82A27A044005C9729 /* Assets.xcassets in Resources */,
@@ -210,9 +254,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				07B707072A30E0D700049DC5 /* SnapsViewController.swift in Sources */,
+				07B707092A30E58200049DC5 /* ImagenViewController.swift in Sources */,
+				07D5D7D12A3A1B98008259D8 /* Snap.swift in Sources */,
+				07B7070F2A30FD6600049DC5 /* Usuario.swift in Sources */,
+				07D5D7D32A3A23DB008259D8 /* VerSnapViewController.swift in Sources */,
 				0719C7A32A27A042005C9729 /* niciarSesionViewController.swift in Sources */,
 				0719C79F2A27A042005C9729 /* AppDelegate.swift in Sources */,
+				0776E2A42A33865A009A2317 /* registroViewController.swift in Sources */,
+				077B62B92A3B8FC8007B7A48 /* AudioViewController.swift in Sources */,
 				0719C7A12A27A042005C9729 /* SceneDelegate.swift in Sources */,
+				07B7070B2A30F79C00049DC5 /* ElegirUsuarioViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
